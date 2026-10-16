@@ -42,16 +42,6 @@ of Chicago**.
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| [🏦 AML Transaction EDA](https://github.com/MaggieHaner/aml-transaction-eda) | Exploratory analysis of financial transaction patterns with anomaly detection | Python, Pandas, Seaborn |
-| [📈 Time Series Forecasting](#) | ARIMA-based sales and risk forecasting models | Python, Statsmodels |
-| [🤖 Conversational AI Agent (iKAT)](#) | LLM-powered search agent with GPT-4 query rewriting | Python, GPT-4, NLP |
-
----
-
 ## 🎓 Education
 
 - 🎓 **M.S. Applied Data Science** — University of Chicago *(2025–2026)*
